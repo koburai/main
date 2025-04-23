@@ -1,0 +1,6 @@
+critFile
+RED
+car
+72
+80
+100
