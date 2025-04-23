@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "statedata.7q7hw0fnbh.html",
+      "AssetFile": "statedata.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2527"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oe5Gc1LVGp68g5R7LKPNF4S5/QJfT92cE3qUq5Qp6rE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 01:57:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7q7hw0fnbh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oe5Gc1LVGp68g5R7LKPNF4S5/QJfT92cE3qUq5Qp6rE="
+        },
+        {
+          "Name": "label",
+          "Value": "statedata.html"
+        }
+      ]
+    },
+    {
+      "Route": "statedata.html",
+      "AssetFile": "statedata.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2527"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oe5Gc1LVGp68g5R7LKPNF4S5/QJfT92cE3qUq5Qp6rE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 01:57:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oe5Gc1LVGp68g5R7LKPNF4S5/QJfT92cE3qUq5Qp6rE="
+        }
+      ]
+    }
+  ]
+}

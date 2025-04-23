@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "StateController",
+    "Method": "GetStates",
+    "RelativePath": "api/State",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

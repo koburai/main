@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Alyssa Waddell CPT 206 A80S Lab 5/statedata.7q7hw0fnbh.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\statedata.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7q7hw0fnbh"},{"Name":"integrity","Value":"sha256-oe5Gc1LVGp68g5R7LKPNF4S5/QJfT92cE3qUq5Qp6rE="},{"Name":"label","Value":"_content/Alyssa Waddell CPT 206 A80S Lab 5/statedata.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2527"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022oe5Gc1LVGp68g5R7LKPNF4S5/QJfT92cE3qUq5Qp6rE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 09 Apr 2025 01:57:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Alyssa Waddell CPT 206 A80S Lab 5/statedata.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\statedata.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oe5Gc1LVGp68g5R7LKPNF4S5/QJfT92cE3qUq5Qp6rE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2527"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022oe5Gc1LVGp68g5R7LKPNF4S5/QJfT92cE3qUq5Qp6rE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 09 Apr 2025 01:57:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

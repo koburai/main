@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\Alyssa Waddell CPT 206 A80S Lab 5\\wwwroot\\statedata.html",
+      "PackagePath": "staticwebassets\\statedata.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Alyssa Waddell CPT 206 A80S Lab 5.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Alyssa Waddell CPT 206 A80S Lab 5.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Alyssa Waddell CPT 206 A80S Lab 5.props",
+      "PackagePath": "build\\Alyssa Waddell CPT 206 A80S Lab 5.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Alyssa Waddell CPT 206 A80S Lab 5.props",
+      "PackagePath": "buildMultiTargeting\\Alyssa Waddell CPT 206 A80S Lab 5.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Alyssa Waddell CPT 206 A80S Lab 5.props",
+      "PackagePath": "buildTransitive\\Alyssa Waddell CPT 206 A80S Lab 5.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

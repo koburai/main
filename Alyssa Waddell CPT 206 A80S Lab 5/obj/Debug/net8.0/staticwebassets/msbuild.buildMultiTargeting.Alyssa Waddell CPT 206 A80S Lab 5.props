@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Alyssa Waddell CPT 206 A80S Lab 5.props" />
+</Project>

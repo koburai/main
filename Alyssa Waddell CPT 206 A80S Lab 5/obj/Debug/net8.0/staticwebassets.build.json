@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "WCCGjoRkoZhFdkCiXub5TIvMzo2GJqTIAUddmfhQHwU=",
+  "Source": "Alyssa Waddell CPT 206 A80S Lab 5",
+  "BasePath": "_content/Alyssa Waddell CPT 206 A80S Lab 5",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Alyssa Waddell CPT 206 A80S Lab 5\\wwwroot",
+      "Source": "Alyssa Waddell CPT 206 A80S Lab 5",
+      "ContentRoot": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\Alyssa Waddell CPT 206 A80S Lab 5\\wwwroot\\",
+      "BasePath": "_content/Alyssa Waddell CPT 206 A80S Lab 5",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\Alyssa Waddell CPT 206 A80S Lab 5\\wwwroot\\statedata.html",
+      "SourceId": "Alyssa Waddell CPT 206 A80S Lab 5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\Alyssa Waddell CPT 206 A80S Lab 5\\wwwroot\\",
+      "BasePath": "_content/Alyssa Waddell CPT 206 A80S Lab 5",
+      "RelativePath": "statedata#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7q7hw0fnbh",
+      "Integrity": "oe5Gc1LVGp68g5R7LKPNF4S5/QJfT92cE3qUq5Qp6rE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\statedata.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "statedata.7q7hw0fnbh.html",
+      "AssetFile": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\Alyssa Waddell CPT 206 A80S Lab 5\\wwwroot\\statedata.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2527"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oe5Gc1LVGp68g5R7LKPNF4S5/QJfT92cE3qUq5Qp6rE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 01:57:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7q7hw0fnbh"
+        },
+        {
+          "Name": "label",
+          "Value": "statedata.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oe5Gc1LVGp68g5R7LKPNF4S5/QJfT92cE3qUq5Qp6rE="
+        }
+      ]
+    },
+    {
+      "Route": "statedata.html",
+      "AssetFile": "C:\\Users\\kuwin\\OneDrive - Spartanburg Community College\\Spring 2025\\Adv Programming\\Alyssa Waddell CPT 206 A80S Lab 5\\wwwroot\\statedata.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2527"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oe5Gc1LVGp68g5R7LKPNF4S5/QJfT92cE3qUq5Qp6rE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 01:57:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oe5Gc1LVGp68g5R7LKPNF4S5/QJfT92cE3qUq5Qp6rE="
+        }
+      ]
+    }
+  ]
+}
