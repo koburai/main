@@ -1,0 +1,10 @@
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Fall 2024\Event Programming (C#)\Alyssa-Waddell-CPT-185-A80H-Test-2\bin\Debug\Alyssa-Waddell-CPT-185-A80H-Test-2.exe.config
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Fall 2024\Event Programming (C#)\Alyssa-Waddell-CPT-185-A80H-Test-2\bin\Debug\Alyssa-Waddell-CPT-185-A80H-Test-2.exe
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Fall 2024\Event Programming (C#)\Alyssa-Waddell-CPT-185-A80H-Test-2\bin\Debug\Alyssa-Waddell-CPT-185-A80H-Test-2.pdb
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Fall 2024\Event Programming (C#)\Alyssa-Waddell-CPT-185-A80H-Test-2\obj\Debug\Alyssa-Waddell-CPT-185-A80H-Test-2.csproj.AssemblyReference.cache
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Fall 2024\Event Programming (C#)\Alyssa-Waddell-CPT-185-A80H-Test-2\obj\Debug\Alyssa_Waddell_CPT_185_A80H_Test_2.Form1.resources
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Fall 2024\Event Programming (C#)\Alyssa-Waddell-CPT-185-A80H-Test-2\obj\Debug\Alyssa_Waddell_CPT_185_A80H_Test_2.Properties.Resources.resources
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Fall 2024\Event Programming (C#)\Alyssa-Waddell-CPT-185-A80H-Test-2\obj\Debug\Alyssa-Waddell-CPT-185-A80H-Test-2.csproj.GenerateResource.cache
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Fall 2024\Event Programming (C#)\Alyssa-Waddell-CPT-185-A80H-Test-2\obj\Debug\Alyssa-Waddell-CPT-185-A80H-Test-2.csproj.CoreCompileInputs.cache
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Fall 2024\Event Programming (C#)\Alyssa-Waddell-CPT-185-A80H-Test-2\obj\Debug\Alyssa-Waddell-CPT-185-A80H-Test-2.exe
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Fall 2024\Event Programming (C#)\Alyssa-Waddell-CPT-185-A80H-Test-2\obj\Debug\Alyssa-Waddell-CPT-185-A80H-Test-2.pdb
